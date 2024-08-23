@@ -1,1 +1,2 @@
-project/pluto.txt
+project/*
+!project/mars.txt
